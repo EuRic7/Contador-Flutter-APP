@@ -1,4 +1,9 @@
 # contador
+Um aplicativo desenvolvido por mim, com Flutter, que tem objetivo de administrar
+o fluxo de entrada e saída de pessoas em um estabelecimento com um limite máximo de 20 pessoas.
+
+Este aplicativo é um dos projetos do treinamento Flutter ministrado pela Accenture 
+em parceria com o Porto Digital. 
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
