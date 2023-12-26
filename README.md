@@ -5,20 +5,11 @@ o fluxo de entrada e saída de pessoas em um estabelecimento com um limite máxi
 Este aplicativo é um dos projetos do treinamento Flutter ministrado pela Accenture 
 em parceria com o Porto Digital. 
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![image](https://github.com/EuRic7/Contador-Flutter-APP/assets/120383860/bd026df1-6ae8-4b62-a4b0-578336b7bf8a) ![image](https://github.com/EuRic7/Contador-Flutter-APP/assets/120383860/7ac3c5a5-6cc4-43fe-a3e7-b82a39aa409e)
+![image](https://github.com/EuRic7/Contador-Flutter-APP/assets/120383860/43057bd6-9f02-4015-b33a-a44085b72dbe)
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+This Flutter project was created with FlutLab - https://flutlab.io
+https://flutlab.io/editor/f2dd9902-1a50-4249-a01f-47f4476a7762 
